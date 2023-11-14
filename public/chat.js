@@ -1,4 +1,4 @@
-const socket = io.connect("https://aasohbet-github-io-agji.vercel.app/")
+const socket = io.connect("https://artag711.github.io/aasohbet.github.io")
 
 
 
